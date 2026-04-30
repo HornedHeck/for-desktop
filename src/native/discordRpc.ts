@@ -23,7 +23,7 @@ export async function initDiscordRpc() {
         buttons: [
           {
             label: "Join Stoat",
-            url: "https://stoat.chat/",
+            url: "https://stoat.hornedheck.com/",
           },
         ],
       }),
